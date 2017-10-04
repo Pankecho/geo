@@ -1,0 +1,55 @@
+{
+    "errorCode": 0,
+    "errorString": "ok",
+    "hotspots": [
+        {
+            "anchor": {
+                "geolocation": {
+                    "lat": 17.0746,
+                    "lon": -96.7579
+                }
+            },
+            "icon": {
+                "url": "https://image.ibb.co/jbc8Vb/IMG_0183.jpg"
+            },
+            "id": 1,
+            "text": {
+                "description": "Plaza Bella es un centro comercial que cuenta con varios establecimientos para compartir momentos con tus seres queridos",
+                "title": "Plaza Bella Oaxaca"
+            }
+        },
+        {
+            "anchor": {
+                "geolocation": {
+                    "lat": 17.0789,
+                    "lon": -96.719
+                }
+            },
+            "icon": {
+                "url": "https://image.ibb.co/j4A6GG/IMG_0193.jpg"
+            },
+            "id": 2,
+            "text": {
+                "description": "Centro comercial con varios restaurantes, cafe(Starbucks), tiendas de ropa(Ferrioni, Lacoste, Nike), tiendas para mascota, dulcerias, jugueteria",
+                "title": "Plaza Parque"
+            }
+        },
+        {
+            "anchor": {
+                "geolocation": {
+                    "lat": 17.0785,
+                    "lon": -96.7193
+                }
+            },
+            "icon": {
+                "url": "https://image.ibb.co/cquYwG/IMG_0194.jpg"
+            },
+            "id": 3,
+            "text": {
+                "description": "Centro comercial con restaurantes, bancos, tiendas de electronica, compañias de telefonia celular, parque para que los mas pequeños jueguen, tiendas para mascota, dulcerias, jugueteria",
+                "title": "Plaza Mazari"
+            }
+        }
+    ],
+    "layer": ""
+}
